@@ -1,1 +1,1 @@
-# nest-boiler-plate
+# nestjs-boilerplate
